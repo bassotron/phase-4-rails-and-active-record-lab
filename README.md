@@ -3,8 +3,7 @@
 ## Learning Goals
 
 - Use Rails to generate a model
-- Add methods to a model
-
+- Add methods to a mode
 ## Introduction
 
 Throughout this module, we'll be building an application for viewing student
